@@ -1,4 +1,4 @@
-//Overwrite an existing function that has been defined by mongoose
+//Overwrite an existing function that has been defined by mongoose.
 const mongoose = require('mongoose');
 const redis = require('redis');
 const util = require('util');
